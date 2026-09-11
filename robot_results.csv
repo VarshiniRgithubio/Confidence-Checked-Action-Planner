@@ -1,0 +1,7 @@
+instruction,result,image
+move to the cup,Moving to: cup,robot_result_0.png
+bring me the thing I read,Moving to: book,robot_result_1.png
+get the thing I drink from,Moving to: bottle,robot_result_2.png
+hand me the thing that rings,AMBIGUOUS INSTRUCTION: Could you clarify what you mean by 'hand me the thing that rings'?,
+grab the round one,Moving to: ball,robot_result_4.png
+go to it,Moving to: cup,robot_result_5.png
